@@ -19,8 +19,8 @@ ArrAvg := fn_ArrayAvg(_array,array[0]);
 
 ### fn_ArrayInfo
 
-Returns the information of an array of any numerical type
-Average, sum,  number of elements, largest value, location of largest value,  smallest value, location of smallest value
+Returns the information of an array of any numerical type:
+average, sum, number of elements(size), largest value, location of largest value, smallest value, location of smallest value, range
 
 Usage:
 ```
